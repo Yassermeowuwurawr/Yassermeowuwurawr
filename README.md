@@ -1,6 +1,6 @@
 # Will You Be My Valentine nigga?
 
-Welcome to the "Will You Be My Valentine?" project, a playful and interactive way to ask that special someone the big question this Valentine's Day. Hosted as a GitHub Page, this project offers a unique blend of creativity and technology to make your Valentine's Day proposal unforgettable.
+Welcome to the "Will You Be My Valentine nigga?" project, a playful and interactive way to ask that special someone the big question this Valentine's Day. Hosted as a GitHub Page, this project offers a unique blend of creativity and technology to make your Valentine's Day proposal unforgettable. (made for lannie)
 
 ## Overview
 
@@ -17,15 +17,11 @@ Welcome to the "Will You Be My Valentine?" project, a playful and interactive wa
 This project is built using simple yet powerful web technologies:
 - HTML
 - CSS
-- JavaScript
+- JavaScript (im pretty average with this shi)
 
 ## How to View
 
-To experience "Will You Be My Valentine?", simply visit [https://byquangthanh.github.io/valentine.github.io/](https://byquangthanh.github.io/valentine.github.io/) from any modern web browser.
-
-## How to Contribute
-
-Contributions to the "Will You Be My Valentine?" project are more than welcome. Whether it's suggesting new features, improving the design, or fixing bugs, here's how you can contribute:
+i know ur so dumb lannie so please click here >>>[https://byquangthanh.github.io/valentine.github.io/](https://byquangthanh.github.io/valentine.github.io/)
 
 1. **Fork the Repository**: Start by forking the [project repository](https://github.com/byquangthanh/valentine.github.io) on GitHub.
 2. **Clone Your Fork**: Clone your fork to your local machine for development.
